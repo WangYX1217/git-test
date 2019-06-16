@@ -12,4 +12,12 @@ public class FIrstClass {
     }
 
 
+    public void test01() {
+
+        int i = 0;
+        i += 10;
+
+    }
+
+
 }
