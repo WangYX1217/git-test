@@ -9,6 +9,8 @@ public class FIrstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+//        hi~~~
     }
 
 
@@ -17,6 +19,7 @@ public class FIrstClass {
         int i = 0;
         i += 10;
 
+        System.out.println("lalala");
     }
 
 
